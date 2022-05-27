@@ -2,7 +2,7 @@
 O package AAB refere-se a Algoritmos Avançados de Bioinformática, sendo constituido por um conjunto de classes e testes em Python.
 
 ## Autores
- *Alexandra Coelho PG45458
+ * Alexandra Coelho PG45458
 Andreia Gomes PG45463
 Catarina Ferreira PG45467
 Daniela Lemos PG45469
